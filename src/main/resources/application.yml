@@ -1,0 +1,31 @@
+items:
+  item1:
+    name: Glue
+    price: 5.90 
+    type: Crafts
+    bin: A001-CR
+  item2:
+    name: Shovel
+    price: 12.70
+    type: Gardening
+    bin: A002-GA
+  item3:
+    name: Gun
+    price: 130.00
+    type: Weapons
+    bin: A003-WE
+  item4:
+    name: TESTNAME
+    price: TESTPRICE
+    type: TESTTYPE
+    bin: TESTBIN
+  item5:
+    name: TESTNAME
+    price: TESTPRICE
+    type: TESTTYPE
+    bin: TESTBIN
+  item6:
+    name: TESTNAME
+    price: TESTPRICE
+    type: TESTTYPE
+    bin: TESTBIN
